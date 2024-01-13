@@ -1,0 +1,48 @@
+body{
+    background:lightblue
+}
+
+header {
+    border: 10px goldenrod ridge; 
+    text-align: center;
+    background: lightgoldenrodyellow;
+}
+
+h1 {
+ color:black;
+}
+
+h2 {
+    border: 3px black dotted; 
+    color:darkgreen
+}
+
+h3 {
+  color:darkred;
+  text-decoration-line: underline;
+}
+
+.icon {
+float:left;
+margin:2px;
+}
+
+.animal-name {
+list-style-position:inside;
+font: bold 17px/1.5 cursive;
+}
+
+summary {
+ color:green
+}
+
+section {
+color:midnightblue ; 
+}
+
+p {
+word-wrap: break-word
+}
+footer {
+ color:chocolate;
+}
